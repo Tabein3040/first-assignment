@@ -1,0 +1,39 @@
+body{
+  font-family: 'Quicksand', sans-serif;
+  margin: 0px;
+}
+.half-width{
+  float: left;
+  margin-left: 165px;
+  margin-top: 90px;
+}
+.half-width img{
+  width: 100%;
+  height: 500px;
+}
+.first-anchor{
+  text-decoration: none;
+  background-image: linear-gradient(45deg,#22a6b3,#7ed6df);
+  color:black;
+  padding: 12px 30px;
+  font-size: 20px;
+  font-weight:500;
+  border-radius: 7px;
+}
+.highlight{
+  color: #ee5253;
+}
+h1{
+  font-size: 50px;
+  font-weight: 900;
+}
+.latest-sec{
+  background-color:aqua;
+  margin-top: 150px;
+}
+.one-third img{
+  float: left;
+  width: 30%;
+  height: 750px;
+
+}
